@@ -1,8 +1,5 @@
 # Mechatronic-Systems
 
-[<img src="Images/matlab_file_exchange.png" width="130">](https://www.mathworks.com/matlabcentral/fileexchange/160301-control-systems)
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=ArnoldPretoriusUCT/Control-Systems)
-
 ## Curriculum Module
 
 _Created with MATLAB R2024b. Compatible with MATLAB R2024b and later releases._
@@ -32,23 +29,6 @@ The intention of this package is to introduce students to the fundamentals of ri
 
 - Students are expected to complete the [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) and [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) before engaging in the Course Notes and Virtual Labs.
 
-## Snapshots of the teaching package
-
-| <img src="Images/TableOfContents.png" width="250"><br>Table of contents found in each Chapter | <img src="Images/StepInputs.png" width="250"><br> Combination of static images, formatted text, and LaTeX equations | <img src="Images/StepResponse.png" width="300"><br> Information-rich code outputs |
-| ----------- | ----------- | ----------- |
-
-| <img src="Images/NicholsChart.png" width="300"><br> Design methods via the Nichols chart <br> | <img src="Images/PIController.png" width="528"><br> Neatly sectioned and formatted content | 
-| ----------- | ----------- |
-
-| <img src="Images/BlockDiagram2.png" width="300"><br>Multi-coloured block diagrams | <img src="Images/Quadcopter.png" width="300"><br> Simulink quadcopter control project | <img src="Images/CodeBlock.png" width="300"><br> Interactive code blocks | 
-| ----------- | ----------- | ----------- |
-
-
-## Instructions
-
-The course content can be approached in one of two ways:
-1. Click on [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=ArnoldPretoriusUCT/Control-Systems). This will allow you to access the content online in your web browser through MATLAB Online.
-3. Download all files and access the MATLAB content from the desktop app.
 
 ### Live Scripts
 
@@ -62,54 +42,43 @@ The Live Scripts are intended to be executed in sections. This can be achieved b
 
 ### Course Notes
 - Chapter 1 - Introduction
-- Chapter 2 - Signals and systems
-- Chapter 3 - Block diagrams
-- Chapter 4 - Modelling the Laplace domain
-- Chapter 5 - Prediction of system response
-- Chapter 6 - System characterisation
-- Chapter 7 - Frequency response techniques
-- Chapter 8 - Feedback control systems
-- Chapter 9 - Stability of closed-loop systems
-- Chapter 10 - Steady-state error
-- Chapter 11 - Transient design specifications
-- Chapter 12 - Frequency-domain design
-- Chapter 13 - Digital control systems
+- Chapter 2 - Rigid-body motion
+- Chapter 3 - Orientation and angular velocity
+- Chapter 4 - Pose estimation
+- Chapter 5 - Robot arm kinematics
+- Chapter 6 - Wheeled robot kinematics
+- Chapter 7 - Trajectory generation
+- Chapter 8 - Control design for wheeled robots
+- Chapter 9 - Quadcopter dynamics
+- Chapter 10 - Attitude control design for quadcopters
+- Chapter 11 - Position control design for quadcopters
+  
 ### Virtual Labs
-- Virtual Lab 1 - Mass-spring-damper system
-- Virtual Lab 2 - Armature-controlled DC motor
-- Virtual Lab 3 - Torsional mass-spring-damper system
-- Virtual Lab 4 - System characterisation
-- Virtual Lab 5 - Underdamped second-order systems
-- Virtual Lab 6 - Closed-loop stability
-- Virtual Lab 7 - Steady-state error
-- Virtual Lab 8 - Design specifications
+- Virtual Lab 1 - Reference frames and vectors
+- Virtual Lab 2 - Orientation and angular velocity
+- Virtual Lab 3 - Quaternions and exponential coordinates
+- Virtual Lab 4 - Orientation estimation
+- Virtual Lab 5 - Robot arm forward kinematics
+- Virtual Lab 7 - Robot arm inverse kinematics
+- Virtual Lab 8 - Trajectory generation
+- Virtual Lab 9 - Wheeled robot control
 
 ### Project
-- Project - Attitude control of a quadcopter
-
-## Learning goals
-The objective of this course is to provide an introduction to control systems engineering. This comprises: 
-
-- Mathematical modelling in the frequency domain
-- Converting governing linear differential equations by means of the Laplace transform
-- Transfer functions
-- Block diagrams and block diagram algebra
-- Stability via the s-plane
-- Frequency response of systems
-- Frequency-domain analysis and design methods
-- Z-transforms and programming equations for digital control
-- Accounting for digital sampling effects.
-
+- Project, Part 1 - Orientation estimation using an explicit complementary filter
+- Project, Part 2 - Attitude control design of a quadcopter
 
 ## Suggested Prerequisites
 
-This course requires a strong basis in vector calculus, linear algebra, and differential equations. 
+This course requires a strong basis in vector calculus, linear algebra, dynamics, and control systems.
 
 ## Additional Resources
 
 ### Introduction to MATLAB
 
 [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) - Learn the essentials of MATLAB through this free, two-hour introductory tutorial on commonly used features and workflows.
+
+[Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink)
+- Learn the basics of how to create, edit, and simulate models in Simulink®. Use block diagrams to represent real-world systems and simulate components and algorithms.
 
 ### Educator Resources
 We invite educators interested in this course material to go through the resources links provided below:
@@ -123,6 +92,7 @@ We invite educators interested in this course material to go through the resourc
 - [MATLAB](https://www.mathworks.com/products/matlab.html), 
 - [Symbolic Math Toolbox™](https://www.mathworks.com/products/symbolic.html),
 - [Control System Toolbox](https://www.mathworks.com/products/control.html),
+- [Robotic System Toolbox](https://in.mathworks.com/products/robotics.html),
 - [Simulink™](https://www.mathworks.com/products/simulink.html),
 - [UAV Toolbox](https://www.mathworks.com/products/uav.html),
 - [MATLAB Online Trainings](https://matlabacademy.mathworks.com/).
@@ -132,6 +102,7 @@ We invite educators interested in this course material to go through the resourc
 The license for this module is available in the [LICENSE](LICENSE) file in this repository.
 
 ## Acknowledgments
+A special thanks to my postgraduate students; Alyssa Ramwell, Daniel Fraser, Guy Hasewinkel, and Luke Richardson, who were instrumental in the preparation and running of this course!
 
 This Curriculum Module was developed through the support of [MathWorks](https://www.mathworks.com/). 
-Special thanks to Dr. Marco Rossi from [MathWorks](https://www.mathworks.com/).
+Special thanks to Dr. Marco Rossi, Dr. Moiz Khan, and Dr Pranav Lad from [MathWorks](https://www.mathworks.com/).
