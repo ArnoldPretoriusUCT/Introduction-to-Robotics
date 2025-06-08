@@ -4,7 +4,7 @@
 
 _Created with MATLAB R2024b. Compatible with MATLAB R2024b and later releases._
 
-2025 © Arnold Pretorius ([University of Cape Town](https://www.uct.ac.za), [Department of Mechanical Engineering, Faculty of Engineering and the Built Environment](https://ebe.uct.ac.za/department-mechanical-engineering))
+2025 © Arnold Pretorius ([Department of Mechanical Engineering, Faculty of Engineering and the Built Environment](https://ebe.uct.ac.za/department-mechanical-engineering),[University of Cape Town](https://www.uct.ac.za))
 
 ## Description of content
 
