@@ -77,8 +77,7 @@ This course requires a strong basis in vector calculus, linear algebra, dynamics
 
 [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) - Learn the essentials of MATLAB through this free, two-hour introductory tutorial on commonly used features and workflows.
 
-[Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink)
-- Learn the basics of how to create, edit, and simulate models in Simulink®. Use block diagrams to represent real-world systems and simulate components and algorithms.
+[Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) - Learn the basics of how to create, edit, and simulate models in Simulink®. Use block diagrams to represent real-world systems and simulate components and algorithms.
 
 ### Educator Resources
 We invite educators interested in this course material to go through the resources links provided below:
