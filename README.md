@@ -101,7 +101,7 @@ We invite educators interested in this course material to go through the resourc
 The license for this module is available in the [LICENSE](LICENSE) file in this repository.
 
 ## Acknowledgments
-A special thanks to my postgraduate students --- Alyssa Ramwell, Daniel Fraser, Guy Hasewinkel, and Luke Richardson --- who were instrumental in the preparation and running of this course!
+A special thanks to my postgraduate students - Alyssa Ramwell, Daniel Fraser, Guy Hasewinkel, and Luke Richardson - who were instrumental in the preparation and running of this course!
 
 This Curriculum Module was developed through the support of [MathWorks](https://www.mathworks.com/). 
 Special thanks to Dr. Marco Rossi, Dr. Moiz Khan, and Dr Pranav Lad from [MathWorks](https://www.mathworks.com/).
