@@ -15,11 +15,11 @@ This teaching package contains content for the course “Mechatronic Systems”,
 4. A Project, which is based in MATLAB Live Scripts and Simulink.
 5. A breakdown of the mechanical design, component selection, and CAD files for a micro-sized quadcopter and attitude test rig.
 6. Instructions for setting up the software/firmware required to interface with the quadcopter flight controller.
-7. Simulink examples for interacting with the quadcopter.
+7. Simulink examples for interacting with and controlling the quadcopter.
 
 The content of this package is intended for undergraduate students with at least some experience with MATLAB, developed by MathWorks. 
 
-The intention of this package is to introduce students to the fundamentals of rigid-body robotics in an interactive manner, providing both rigorous theoretical development, along with guided demonstration and emulated practical exercises. This is made possible by making use of MATLAB Live Scripts which incorporate formatted text, LaTeX equations, imagery, and interactive code blocks.
+The intention of this package is to introduce students to the fundamentals of rigid-body robotics in an interactive manner, providing both rigorous theoretical development, along with guided demonstration and emulated practical exercises. This is made possible by making use of MATLAB Live Scripts which incorporate formatted text, LaTeX equations, imagery, and interactive code blocks. 
 
 ### Important points to take note
 - The weekly Virtual Labs contain questions that are meant to be answered within a Learning Management System (LMS), which for the University of Cape Town is Amathuba (an LMS based on D2L Brightspace).
