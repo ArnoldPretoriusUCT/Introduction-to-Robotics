@@ -13,9 +13,10 @@ This teaching package contains content for the course “Mechatronic Systems”,
 2. A set of static PDF exports of the Course Notes. 
 3. A set of Virtual Labs, based in MATLAB Live Scripts.
 4. A Project, which is based in MATLAB Live Scripts and Simulink.
-5. A breakdown of the mechanical design, component selection, and CAD files for a micro-sized quadcopter and attitude test rig.
-6. Instructions for setting up the software/firmware required to interface with the quadcopter flight controller.
-7. Simulink examples for interacting with and controlling the quadcopter.
+5. A set of Weekly Quizzes, exported in the form of a Brightspace Package, and compatible with the Brightspace Learning Management System.
+6. A breakdown of the mechanical design, component selection, and CAD files for a micro-sized quadcopter and attitude test rig.
+7. Instructions for setting up the software/firmware required to interface with the quadcopter flight controller.
+8. Simulink examples for interacting with and controlling the quadcopter.
 
 The content of this package is intended for undergraduate students with at least some experience with MATLAB, developed by MathWorks. 
 
@@ -26,7 +27,7 @@ The intention of this package is to introduce students to the fundamentals of ri
   
 - Worked solutions for the Virtual Labs and Project are available and will be provided upon kind request and verification of station.
 
-- Every week there is an online quiz within the LMS, which is intended to gauge the students familiarity with the content from the previous week. While the quizzes are for marks, the students are allowed to attempt the quizzes any number of times and receive instant feedback about their incorrect answers. These quizzes can be provided upon kind request.
+- Every week there is an auto-marked, online quiz within the LMS, which is intended to gauge the students familiarity with the content from the previous week. While the quizzes are for marks, the students are allowed to attempt the quizzes any number of times and receive instant feedback about their incorrect answers. 
 
 - The University of Cape Town has a Campus Wide License which enables all staff members, students, and visitors to use the full suite of MATLAB products. This allows for easy access to the tools to every students from everywhere in the world. Students can use MATLAB directly in the web browser with MATLAB Online which is connected to MATLAB Drive, which gives every students 20Gb of space in the cloud.
 
