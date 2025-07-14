@@ -4,7 +4,7 @@
 
 _Created with MATLAB R2024b. Compatible with MATLAB R2024b and later releases._
 
-2025 © Arnold Pretorius ([Department of Mechanical Engineering, Faculty of Engineering and the Built Environment](https://ebe.uct.ac.za/department-mechanical-engineering),[University of Cape Town](https://www.uct.ac.za))
+2025 © Arnold Pretorius ([University of Cape Town](https://www.uct.ac.za), [Department of Mechanical Engineering, Faculty of Engineering and the Built Environment](https://ebe.uct.ac.za/department-mechanical-engineering))
 
 ## Description of content
 
@@ -14,7 +14,7 @@ This teaching package contains content for the course “Mechatronic Systems”,
 3. A set of Virtual Labs, based in MATLAB Live Scripts.
 4. A Project, which is based in MATLAB Live Scripts and Simulink.
 
-The content of this package is intended for undergraduate students with at least some experience with MATLAB and Simulink.
+The content of this package is intended for undergraduate students with at least some experience with MATLAB, developed by MathWorks. 
 
 The intention of this package is to introduce students to the fundamentals of rigid-body robotics in an interactive manner, providing both rigorous theoretical development, along with guided demonstration and emulated practical exercises. This is made possible by making use of MATLAB Live Scripts which incorporate formatted text, LaTeX equations, imagery, and interactive code blocks.
 
