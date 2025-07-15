@@ -1,4 +1,4 @@
-# Mechatronic-Systems
+# Introduction-to-Robotics
 
 ## Curriculum Module
 
@@ -8,7 +8,7 @@ _Created with MATLAB R2024b. Compatible with MATLAB R2024b and later releases._
 
 ## Description of content
 
-This teaching package contains content for the course “Mechatronic Systems”, which is based heavily within based in MATLAB [Live Scripts](https://www.mathworks.com/products/matlab/live-editor.html). The teaching package comprises the following:
+This teaching package contains content for the course Mechatronic Systems, taught in the Department of Mechanical Engineering at the University of Cape Town, which is based heavily within based in MATLAB [Live Scripts](https://www.mathworks.com/products/matlab/live-editor.html). The teaching package comprises the following:
 1. A set of interactive Course Notes, based in MATLAB Live Scripts.
 2. A set of static PDF exports of the Course Notes. 
 3. A set of Virtual Labs, based in MATLAB Live Scripts.
@@ -42,7 +42,20 @@ Live Scripts are divided into sections and contain interactive Live Script contr
 
 The Live Scripts are intended to be executed in sections. This can be achieved by pressing the Run Section button within the MATLAB interface, or using CNTRL/CMD+ENTER. 
 
-## Content
+### Learning Goals
+The objective of this module is to provide an introduction to mobile robotics. This comprises:
+- Developing an understanding of reference frames and vector mappings
+- Understanding and applying rigid-body motion
+- Representing the position and orientation of a rigid body
+- Estimating the pose of a robot using on-board sensor information
+- Deriving the forward and inverse kinematics of robot arms
+- Deriving the forward and inverse kinematics of wheeled robots
+- Determining and applying different trajectory generation schemes
+- Designing a controller for wheeled robots
+- Modelling the dynamics of a quadcopter
+- Designing attitude and position controllers for a quadcopter
+
+## Course Notes and Assessments
 
 ### Course Notes
 - Chapter 1 - Introduction
@@ -85,7 +98,12 @@ The Live Scripts are intended to be executed in sections. This can be achieved b
 - Quiz 11 — Control design for quadcopter
 
 ## Hardware
-TBC
+
+### Mechanical Design
+
+### Installation
+
+### Examples
 
 ## Suggested Prerequisites
 
