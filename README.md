@@ -101,9 +101,15 @@ The objective of this module is to provide an introduction to mobile robotics. T
 
 ### Mechanical Design
 
+### Experimental Data
+- Experimental data of the motor-propeller thrust behaviour is included for the purposes of model-based analysis and control design
+
 ### Installation
+- Installation instructions for setting up MATLAB-PX4 integration can be found here.
 
 ### Examples
+- Explicit complementary filter running on flight controller using Monitor and Tune
+- Roll controller running on flight controller using Monitor and Tune
 
 ## Suggested Prerequisites
 
