@@ -11,13 +11,12 @@ _Created with MATLAB R2024b. Compatible with MATLAB R2024b and later releases._
 
 This teaching package contains content for the course Mechatronic Systems, taught in the Department of Mechanical Engineering at the University of Cape Town, which is based heavily within based in MATLAB [Live Scripts](https://www.mathworks.com/products/matlab/live-editor.html). The teaching package comprises the following:
 1. A set of interactive Course Notes, based in MATLAB Live Scripts.
-2. A set of static PDF exports of the Course Notes. 
-3. A set of Virtual Labs, based in MATLAB Live Scripts.
-4. A Project, which is based in MATLAB Live Scripts and Simulink.
-5. A set of Weekly Quizzes, exported in the form of a Brightspace Package, and compatible with the Brightspace Learning Management System.
-6. A breakdown of the mechanical design, component selection, and CAD files for a micro-sized quadcopter and attitude test rig.
-7. Instructions for setting up the software/firmware required to interface with the quadcopter flight controller.
-8. Simulink examples for interacting with and controlling the quadcopter.
+2. A set of Virtual Labs, based in MATLAB Live Scripts.
+3. A Project, which is based in MATLAB Live Scripts and Simulink files.
+4. A set of Weekly Quizzes, exported in the form of a Brightspace Package, and compatible with the Brightspace Learning Management System.
+5. A breakdown of the mechanical design, component selection, and CAD files for a micro-sized quadcopter and attitude test rig.
+6. Instructions for setting up the software/firmware required to interface with the quadcopter flight controller.
+7. Simulink examples for interacting with and controlling the quadcopter using Monitor and Tune.
 
 The content of this package is intended for undergraduate students with at least some experience with MATLAB, developed by MathWorks. 
 
