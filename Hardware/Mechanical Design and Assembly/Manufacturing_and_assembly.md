@@ -18,7 +18,7 @@ Battery example
 Item number | Item Description | Quantity | Units | Supplier | Notes |
 | -| - | - | - | - | - |
 | 1 | Rig base | 1 | - | 3D print
-| 2 | Ball joint connection half | 2 | - | 3D print | Internal diameter to be adjusted to steel ball size (test for best fit).
+| 2 | Ball joint female half | 2 | - | 3D print | Internal diameter to be adjusted to steel ball size (test for best fit).
 | 3 | Quadcopter frame | 1 | - | 3D print
 | 4.1 | T-motor F1203 7000KV motor | 4 | - | [T-motor](https://store.tmotor.com/product/f1203-fpv-motor.html) | 
 | 4.2 | M2 x 6 mm socket-hd cap screw | 4 | - | ^ | Included in motor package 
@@ -75,7 +75,7 @@ The three parts that require 3D printing are the base, the ball joint connection
 - (Optional if available) Scarf joint: Contour and hole
 - (Optional if available) Use multi-colour printing to add colour to the text.
 
-#### Ball joint connector
+#### Ball joint female halves
 
 `The inner diameter of this part may need to be adjusted to ensure smooth operation with the steel ball joint.`
 
@@ -150,4 +150,4 @@ Be sure to connect the ESC to the port on the flight controller containing the s
 
 ### 9. Screw the steel ball into the top of the Rig base.
 
-### 10. Mount the quadcopter to the steel ball using the ball joint connecter halves.
+### 10. Mount the quadcopter to the steel ball using the ball joint female halves.
