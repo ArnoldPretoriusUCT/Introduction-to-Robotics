@@ -35,7 +35,7 @@ The intention of this package is to introduce students to the fundamentals of ri
 
 ## Snapshots of the teaching package
 
-| <img src="Images/Snapshots/TableOfContents.png" width="250"><br>Table of contents found in each Chapter | <img src="Images/Snapshots/CombinationOfContent.png" width="250"><br> Combination of static images, formatted text, and LaTeX equations | 
+| <img src="Images/Snapshots/TableOfContents.png" width="250"><br>Table of contents found in each Chapter | <img src="Images/Snapshots/CombinationOfContent.png" width="450"><br> Combination of static images, formatted text, and LaTeX equations | 
 | ----------- | ----------- |
 
 |<img src="Images/Snapshots/DetailedImages2.png" width="300"><br> Detailed images | <img src="Images/Snapshots/SectionedContent.png" width="528"><br> Neatly sectioned and formatted content | 
