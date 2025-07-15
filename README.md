@@ -43,6 +43,7 @@ The intention of this package is to introduce students to the fundamentals of ri
 
 | <img src="Images/Snapshots/DetailedImages2.png" width="300"><br> Detailed images | <img src="Images/Quadcopter.png" width="300"><br> Simulink quadcopter control project | 
 | ----------- | ----------- |
+
 | <img src="Images/Snapshots/CodeBlockAndVisualisation.png" width="300"><br> Interactive code blocks and detailed visualisations <br> |
 | ----------- |
 
