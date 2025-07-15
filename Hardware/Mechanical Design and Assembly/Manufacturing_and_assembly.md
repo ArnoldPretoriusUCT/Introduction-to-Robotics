@@ -164,8 +164,8 @@ Use the longer of the two connector cables included with the stack to connect th
 Be sure to connect the ESC to the port on the flight controller containing the signals for motors 1-4. This port is the one closest to the direction arrow on top of the flight controller.
 
 <p float="left">
-  <img src="./images/Connector1" width="400" />
-  <img src="./images/Connector2" width="400" /> 
+  <img src="./images/Connector1.jpg" width="400" />
+  <img src="./images/Connector2.jpg" width="400" /> 
 </p>
 
 ### 9. Screw the steel ball into the top of the Rig base.
