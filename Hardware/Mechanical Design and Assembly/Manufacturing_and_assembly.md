@@ -2,8 +2,8 @@
 
 This file details the manufacturing, BoM and assembly of the physical platform used as a demonstration and teaching tool in the Introduction to Robotics course.
 
-![Full rig1](/images/Full_rig1.jpg)
-![Full rig2](/images/Full_rig2.jpg)
+![Full rig1](./images/Full_rig1.jpg)
+![Full rig2](./images/Full_rig2.jpg)
 
 ## Configurations
 
@@ -96,7 +96,7 @@ There is an option for the steel side of the ball joint to have a 3mm hole drill
 
 It is important for the hole to be centered on the ball, as well as perpendicular to the threaded shaft. It is therefore reccomended to preform this operation where sufficient precision and accuracy can be achieved, i.e. with a milling machine.
 
-![Steel ball drawing](/images/Steel_ball_drawing.png)
+![Steel ball drawing](./images/Steel_ball_drawing.png)
 
 ## Assembly steps
 
@@ -111,7 +111,7 @@ Solder 50mm of 18 AWG wire to the XT30 male, with red to positive and black to n
 
 Solder the other ends of the above wires to the ESC (red to positive and black to negative).
 
-![Motors and XT30](/images/Motors_XT30.jpg)
+![Motors and XT30](./images/Motors_XT30.jpg)
 
 ### 3. Solder the power supply connector
 Solder the rest of the 18 AWG wire to the female side of the XT30 connector (red to positive and black to negative).
@@ -126,16 +126,16 @@ Tighten the screws until the top of the screw is flush with the top of the nylon
     
 The orientation of the flight controller with respect to the ESC should be so that the USB-C port and the previously soldered power cable face opposite directions. The orientation of the stack, as a whole, on the frame is not important.
 
-![Orientation of FC on ESC](/images/Orientation_of_FC_on_ESC.jpg)
+![Orientation of FC on ESC](./images/Orientation_of_FC_on_ESC.jpg)
 
 ### 6. Mount the motors to the frame
 Mount the motors to the frame using the included M2 screws, twisting the motor wires and wrapping them around the arms once before mounting to keep the wires tidy.
     
 The T-motor motors come with two lengths of M2 screws. Use the **longer** ones for mounting the motors to the frame.
 
-![Motor twist](/images/Motor_twist.jpg)
-![Motor wrap1](/images/Motor_wrap1.jpg)
-![Motor wrap2](/images/Motor_wrap2.jpg)
+![Motor twist](./images/Motor_twist.jpg)
+![Motor wrap1](./images/Motor_wrap1.jpg)
+![Motor wrap2](./images/Motor_wrap2.jpg)
 
 ### 7. Mount the propellers to the motors
 
@@ -143,7 +143,7 @@ Mount the propellers to the motors using the **shorter** M2 screws provided with
 
 Ensure that the front right propeller wrt. the arrow on the top of the flight controller is set up to rotate CW, with subsequent adjacent motors set up to rotate opposite directions.
 
-![Propeller directions](/images/Propeller_directions.jpg)
+![Propeller directions](./images/Propeller_directions.jpg)
 
 ### 8. Connect the Flight Controller to the ESC
 
@@ -151,8 +151,8 @@ Use the longer of the two connector cables included with the stack to connect th
 
 Be sure to connect the ESC to the port on the flight controller containing the signals for motors 1-4. This port is the one closest to the direction arrow on top of the flight controller.
 
-![Connector1](/images/Connector1.jpg)
-![Connector2](/images/Connector2.jpg)
+![Connector1](./images/Connector1.jpg)
+![Connector2](./images/Connector2.jpg)
 
 ### 9. Screw the steel ball into the top of the Rig base.
 
@@ -160,8 +160,8 @@ Be sure to connect the ESC to the port on the flight controller containing the s
 
 Use the M3x25mm socket-hd cap screws and M3 nuts to simultaneously mount the quadcopter to the female ball joint halves, and the female ball joint halves to the steel ball.
 
-![Ball joint mount1](/images/Ball_joint_mount1.jpg)
-![Ball joint mount2](/images/Ball_joint_mount2.jpg)
+![Ball joint mount1](./images/Ball_joint_mount1.jpg)
+![Ball joint mount2](./images/Ball_joint_mount2.jpg)
 
 ### 11. Optionally, use the M3x40mm screw to set up the rig for 1 DoF testing.
 
