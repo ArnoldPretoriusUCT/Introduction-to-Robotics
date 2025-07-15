@@ -21,8 +21,8 @@ Item number | Item Description | Quantity | Units | Supplier | Notes |
 | 2 | Ball joint connection half | 2 | - | 3D print | Internal diameter to be adjusted to steel ball size (test for best fit).
 | 3 | Quadcopter frame | 1 | - | 3D print
 | 4.1 | T-motor F1203 7000KV motor | 4 | - | [T-motor](https://store.tmotor.com/product/f1203-fpv-motor.html) | 
-| 4.2 | M2 x 6 mm | 4 | - | ^ | Included in motor package 
-| 4.3 | M2 x 7 mm | 4 | - | ^ | Included in motor package
+| 4.2 | M2 x 6 mm socket-hd cap screw | 4 | - | ^ | Included in motor package 
+| 4.3 | M2 x 7 mm socket-hd cap screw | 4 | - | ^ | Included in motor package
 | 5.1 | Kakute H7 V2 flight stack | 1 | - | [Holybro](https://holybro.com/products/kakute-h7-v2-stacks?variant=41473188298941) | Includes FC, ESC and mounting hardware.
 | 5.2 | M3x20 mm pan-hd cap screw | 4 | - | ^ | Included in flight stack package
 | 5.3 | M3 nylon lock nuts | 4 | - | ^ | Included in flight stack package
