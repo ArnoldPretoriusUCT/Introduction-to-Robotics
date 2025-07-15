@@ -126,13 +126,19 @@ We invite educators interested in this course material to go through the resourc
 
 ## Products
 
+### Required for course notes and assessments
 - [MATLAB](https://www.mathworks.com/products/matlab.html), 
 - [Symbolic Math Toolbox™](https://www.mathworks.com/products/symbolic.html),
 - [Control System Toolbox](https://www.mathworks.com/products/control.html),
 - [Robotic System Toolbox](https://in.mathworks.com/products/robotics.html),
 - [Simulink™](https://www.mathworks.com/products/simulink.html),
-- [UAV Toolbox](https://www.mathworks.com/products/uav.html),
-- [MATLAB Online Trainings](https://matlabacademy.mathworks.com/).
+- [UAV Toolbox](https://www.mathworks.com/products/uav.html).
+
+### Required for interfacing with hardware
+- [Embedded Coder](https://in.mathworks.com/products/embedded-coder.html),
+- [MATLAB Coder](https://in.mathworks.com/products/matlab-coder.html),
+- [Simulink Coder](https://in.mathworks.com/products/simulink-coder.html),
+- [UAV Toolbox Support Package for PX4 Autopilots](https://in.mathworks.com/help/uav/px4-spkg.html).
 
 ## License
 
