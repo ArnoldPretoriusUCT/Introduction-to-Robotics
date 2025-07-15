@@ -124,7 +124,7 @@ This section details the hardware elements of the teaching package, as well as t
 
 ### Mechanical Design and Assembly
 - CAD files for the quadcopter frame and attitude rig
-- A [README](Hardware/Mechanical Design and Assembly/README.md) detailing the manufacturing, bill of materials, and assembly of the physical platform
+- A [README](Hardware/Mechanical%20Design%20and%20Assembly/README.md) detailing the manufacturing, bill of materials, and assembly of the physical platform
 
 ### Experimental Data
 - Experimental data of the motor-propeller thrust behaviour is included for the purposes of model-based analysis and control design
