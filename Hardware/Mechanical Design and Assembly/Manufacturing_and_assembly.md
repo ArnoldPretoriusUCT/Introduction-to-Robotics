@@ -1,17 +1,17 @@
-# UCT MEC4127F MicroUAV Attitude test rig hardware setup
+# UCT MicroUAV Attitude test rig hardware setup
 
 This file details the manufacturing, BoM and assembly of the physical platform used as a demonstration and teaching tool in the Introduction to Robotics course.
 
-Total mass
-
-Battery example
-
-## Contents
-
+``Full rig pic``
 
 ## Configurations
 
-1 DoF vs 3 DoF vs free flight
+There are two possible testing configurations for this quadcopter:
+
+1. 1 Degree of freedom.
+    - An M3 screw can be used to constrain the rig so that it can only move with one degree of freedom, being either pitch or roll. This configuration requires a steel ball joint to have a 3mm hole drilled/milled through it, which would require some specialised equipment. Therefore, this configuration may not be available to all.
+2. 3 Degrees of freedom
+    - Not using the M3 screw through the ball joint will allow the quadcopter to move with three degrees of freedom, namely roll, pitch, and yaw.
 
 ## Bill of Materials
 
@@ -41,7 +41,11 @@ Item number | Item Description | Quantity | Units | Supplier | Notes |
 
 ### Powering the quadcopter
 
+The quadcopter can be run on a voltage from 6V to 12.6V. A 12V power supply with over current protection is highly recommended.
 
+With a conservative controller on-board the flight controller, the quadcopter can operate off a 150W power supply (12V@12.5A). However, in this case, it is required that the power supply has built in over current protection. 
+
+If a more agressive controller is to be used, a power supply of up to 400W should be used (12V@33.3A). It is still highly recommended to use a power supply with over current protection because the motors are capable of drawing over 100W each if commanded with a high enough command signal.
 
 ### Constraining the platform
 
@@ -97,29 +101,27 @@ It is important for the hole to be centered on the ball, as well as perpendicula
 
 ### 1. Solder motors to ESC. 
 
-``no need to cut down motor wires``
-
-Solder the three motor leads from each motor to the ESC according to the diagram below. The order of the motor wires in each cluster is not important at this stage because the order determines the rotation direction of the motor, which can also be reversed during the ESC calibration and setup procedure.
+Solder the three motor leads from each motor to the ESC according to the diagram below. The order of the motor wires in each cluster is not important at this stage because the order determines the rotation direction of the motor, which can also be reversed during the ESC calibration and setup procedure. There is also no need to cut down the motor wires to size.
 
 See [here](https://www.youtube.com/watch?v=2funvs3nU7U) for a useful soldering guide specifically for drone components.
 
-### 2. Solder XT30 male to ESC via 16 AWG wire
-Solder 50mm of 16 AWG wire to the XT30 male, with red to positive and black to negative. (See [here](https://www.youtube.com/watch?v=2zlw-wo52q8) for help)
+### 2. Solder XT30 male to ESC via 18 AWG wire
+Solder 50mm of 18 AWG wire to the XT30 male, with red to positive and black to negative. (See [here](https://www.youtube.com/watch?v=2zlw-wo52q8) for help)
 
 Solder the other ends of the above wires to the ESC (red to positive and black to negative).
 
 ``Image showing what it should look like now``
 
 ### 3. Solder the power supply connector
-Solder the rest of the 16 AWG wire to the female side of the XT30 connector (red to positive and black to negative).
+Solder the rest of the 18 AWG wire to the female side of the XT30 connector (red to positive and black to negative).
 
 ### 4. Mount Flight Controller/ESC stack to the frame
 
-``Add vibration isolators``
+Add all eight vibration isolators to each of the monting holes on the flight controller and ESC.
 
 Mount flight controller and ESC stack to the frame with two sets of the included M3 screws and nylon lock nuts. 
 
-``tighten screws  until the top of the screw is flush with the top of the nut``
+Tighten the screws until the top of the screw is flush with the top of the nylon lock nut.
     
 The orientation of the flight controller with respect to the ESC should be so that the USB-C port and the previously soldered power cable face opposite directions. The orientation of the stack, as a whole, on the frame is not important.
 
@@ -151,3 +153,14 @@ Be sure to connect the ESC to the port on the flight controller containing the s
 ### 9. Screw the steel ball into the top of the Rig base.
 
 ### 10. Mount the quadcopter to the steel ball using the ball joint female halves.
+
+Use the M3x25mm socket-hd cap screws and M3 nuts to simultaneously mount the quadcopter to the female ball joint halves, and the female ball joint halves to the steel ball.
+
+
+### 11. Optionally, use the M3x40mm screw to set up the rig for 1 DoF testing.
+
+Insert the M3x40mm socket-hd cap screw through the entire ball joint assembly, and secure it with a nylon lock nut from the flight controller stack.
+
+There are two opposing pairs of holes in the female part of the ball joint so that the rig can either be set up to be roll-only or pitch-only. With the orientation of the flight stack described in this setup, it is reccomended that the rig is set up to be pitch-only.
+
+``Final image of full rig``
