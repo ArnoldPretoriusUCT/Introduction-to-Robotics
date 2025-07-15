@@ -142,9 +142,9 @@ Mount the motors to the frame using the included M2 screws, twisting the motor w
 The T-motor motors come with two lengths of M2 screws. Use the **longer** ones for mounting the motors to the frame.
 
 <p float="left">
-  <img src="./images/Motor_twist.jpg" width="400" />
-  <img src="./images/Motor_wrap1.jpg" width="400" /> 
-  <img src="./images/Motor_wrap2.jpg" width="400" /> 
+  <img src="./images/Motor_twist.jpg" width="200" />
+  <img src="./images/Motor_wrap1.jpg" width="200" /> 
+  <img src="./images/Motor_wrap2.jpg" width="200" /> 
 </p>
 
 ### 7. Mount the propellers to the motors
