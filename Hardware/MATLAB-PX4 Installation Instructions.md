@@ -19,7 +19,7 @@ WSL (Ubuntu 22.04)
 
 Download MATLAB 2024B from the website below or upgrade from previous generations of MATLAB by going → add ons → clicking on R2024b now available 
 
-![image.png](image.png)
+![image.png](Images/image.png)
 
 [https://www.mathworks.com/downloads/](https://www.mathworks.com/downloads/)
 
