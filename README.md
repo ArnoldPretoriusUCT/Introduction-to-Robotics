@@ -56,6 +56,8 @@ The objective of this module is to provide an introduction to mobile robotics. T
 - Designing attitude and position controllers for a quadcopter
 
 ## Course Notes and Assessments
+This section details the course notes and assessments that are present in this teaching package. The Course Notes and Virtual Labs are based in Live Scripts, whereas the Project is based in both Live Scripts and Simulink. 
+The Quizzes are in the form of Brightspace packages, which can be seamlessly imported into a Brightspace-compatible learning management system. The Quizzes can also be shared as Common Cartridges upon kind request.
 
 ### Course Notes
 - Chapter 1 - Introduction
@@ -98,6 +100,7 @@ The objective of this module is to provide an introduction to mobile robotics. T
 - Quiz 11 — Control design for quadcopter
 
 ## Hardware
+This section details the hardware elements of the teaching package, as well as the associated installation instructions and example scripts. The course is configured such that inclusion of the hardware is purely optional, based on the resources available for the particular university. 
 
 ### Mechanical Design
 
