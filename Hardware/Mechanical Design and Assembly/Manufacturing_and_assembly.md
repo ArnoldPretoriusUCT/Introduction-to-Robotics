@@ -27,7 +27,7 @@ Item number | Item Description | Quantity | Units | Supplier | Notes |
 | 5.2 | M3x20 mm pan-hd cap screw | 4 | - | ^ | Included in flight stack package
 | 5.3 | M3 nylon lock nuts | 4 | - | ^ | Included in flight stack package
 | 5.4 | JST-GH 8-pin x 73 mm connector cable | 1 | - | ^ | Included in flight stack package
-| 6 | 2-inch, 3-blade propellers (2CW/2CCW) | 1 | set | [HQ Durable]() | Propellers up to 2.5" will fit.
+| 6 | 2-inch, 3-blade propellers with 2.5" pitch(2CW/2CCW) | 1 | set | [HQ Durable](https://www.team-blacksheep.com/products/product:3113) | Propellers up to 2.5" will fit.
 | 7 | M3x40mm socket-hd cap screw | 1 | - | COTS | If 1 DoF testing is required.
 | 8 | M3x25mm socket-hd cap screw | 2 | - | COTS | For mounting quadcopter to ball joint.
 | 9 | M3 nuts | 2 | - | COTS
