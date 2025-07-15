@@ -33,6 +33,23 @@ The intention of this package is to introduce students to the fundamentals of ri
 
 - Students are expected to complete the [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) and [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) before engaging in the Course Notes and Virtual Labs.
 
+## Snapshots of the teaching package
+
+| <img src="Images/Snapshots/TableOfContents.png" width="250"><br>Table of contents found in each Chapter | <img src="Images/Snapshots/CombinationOfContent.png" width="250"><br> Combination of static images, formatted text, and LaTeX equations | <img src="Images/Snapshots/DetailedImages2.png" width="300"><br> Detailed images |
+| ----------- | ----------- | ----------- |
+
+| <img src="Images/Snapshots/CodeBlockAndVisualisation.png" width="300"><br> Interactive code blocks and detailed visualisations <br> | <img src="Images/Snapshots/SectionedContent.png" width="528"><br> Neatly sectioned and formatted content | 
+| ----------- | ----------- |
+
+| <img src="Images/Snapshots/FiguresAndCaptions.png" width="300"><br>All figures numbered and captioned, with hyperlinked in-text references | <img src="Images/Quadcopter.png" width="300"><br> Simulink quadcopter control project | <img src="Images/CodeBlock.png" width="300"><br> Interactive code blocks | 
+| ----------- | ----------- | ----------- |
+
+
+## Instructions
+
+The course content can be approached in one of two ways:
+1. Click on [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=ArnoldPretoriusUCT/Control-Systems). This will allow you to access the content online in your web browser through MATLAB Online.
+2. Download all files and access the MATLAB content from the desktop app.
 
 ### Live Scripts
 
@@ -102,7 +119,9 @@ The Quizzes are in the form of Brightspace packages, which can be seamlessly imp
 ## Hardware
 This section details the hardware elements of the teaching package, as well as the associated installation instructions and example scripts. The course is configured such that inclusion of the hardware is purely optional, based on the resources available for the particular university. 
 
-### Mechanical Design
+### Mechanical Design and Assembly
+- CAD files for the quadcopter frame and attitude rig
+- A README detailing the manufacturing, bill of materials, and assembly of the physical platfor
 
 ### Experimental Data
 - Experimental data of the motor-propeller thrust behaviour is included for the purposes of model-based analysis and control design
