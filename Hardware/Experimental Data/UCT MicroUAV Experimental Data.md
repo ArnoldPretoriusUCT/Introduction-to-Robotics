@@ -1,4 +1,4 @@
-# UCT MicroUAV Propulsion System – Static Performance Data
+# UCT MicroUAV Propulsion System – Performance Data
 This README provides an overview of the static performance system testing conducted on the MicroUAV propulsion system. The data was collected using a standardised test setup to evaluate thrust response under controlled conditions.
 
 ## Test Configuration
@@ -13,7 +13,7 @@ The [Propulsion Rig](https://github.com/AltAirCoaxialVariableTiltMRAV/Propulsion
 - **Motor:** [T-Motor F1203 Kv 7000](https://store.tmotor.com/product/f1203-fpv-motor.html)
 - **Propeller:** [HQProp T2x2x4 (2-inch, 4-blade)](https://flyingrobot.co/products/hqprop-t2x2x4-propeller)
 
-## Static Performance Data Files
+## Performance Data Files
 |Filename|Description|
 |---|---|
 |`HQProp T2x2X4 … data.csv`|Raw test log at an 80 Hz sampling rate that includes `time [s]`, `thrust [g]`, and `PWM [%]`|
