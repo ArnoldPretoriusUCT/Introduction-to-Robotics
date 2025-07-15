@@ -41,7 +41,7 @@ The intention of this package is to introduce students to the fundamentals of ri
 |<img src="Images/Snapshots/FiguresAndCaptions.png" width="400"><br>Numbered and captioned figures with hyperlinked in-text references | <img src="Images/Snapshots/SectionedContent.png" width="400"><br> Neatly sectioned and formatted content | 
 | ----------- | ----------- |
 
-| <img src="Images/Snapshots/DetailedImages.png" width="550"><br> Detailed images | <img src="Images/Snapshots/DetailedImages2.png" width="550"><br> Annotated figures | 
+| <img src="Images/Snapshots/DetailedImages.png" width="550"><br> Detailed images | <img src="Images/Snapshots/DetailedImages3.png" width="550"><br> Annotated figures | 
 | ----------- | ----------- |
 
 | <img src="Images/Snapshots/CodeBlockAndVisualisation.png" width="1100"><br> Interactive code blocks and detailed visualisations <br> |
