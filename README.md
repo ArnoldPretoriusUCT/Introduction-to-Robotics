@@ -20,7 +20,7 @@ This teaching package contains content for the course “Mechatronic Systems”,
 
 The content of this package is intended for undergraduate students with at least some experience with MATLAB, developed by MathWorks. 
 
-The intention of this package is to introduce students to the fundamentals of rigid-body robotics in an interactive manner, providing both rigorous theoretical development, along with guided demonstration and emulated practical exercises. This is made possible by making use of MATLAB Live Scripts which incorporate formatted text, LaTeX equations, imagery, and interactive code blocks. 
+The intention of this package is to introduce students to the fundamentals of rigid-body robotics in an interactive manner, providing both rigorous theoretical development, along with guided demonstration and emulated practical exercises. This is made possible by making use of MATLAB Live Scripts which incorporate formatted text, LaTeX equations, imagery, and interactive code blocks. Additionally, optional hardware elements have also been included in this course offering, which can either be used as experimental demonstrations, or incorporated in the Project.
 
 ### Important points to take note
 - The weekly Virtual Labs contain questions that are meant to be answered within a Learning Management System (LMS), which for the University of Cape Town is Amathuba (an LMS based on D2L Brightspace).
@@ -36,11 +36,11 @@ The intention of this package is to introduce students to the fundamentals of ri
 
 ### Live Scripts
 
-The Course Notes Live Scripts are presented as an interactive textbook with numbered sections. 
+The Live Scripts course notes are presented as an interactive textbook with numbered sections. 
 
 Live Scripts are divided into sections and contain interactive Live Script controls which include buttons, checkboxes, sliders, and dropdown menus. Feel free to interact with these controls as well as typing in your own code snippets. You can run each section within a Live Script individually. 
 
-The Live Scripts are intended to be executed in sections. This can be achieved by pressing the Run Section button within the MATLAB interface, or CNTRL/CMD+ENTER. 
+The Live Scripts are intended to be executed in sections. This can be achieved by pressing the Run Section button within the MATLAB interface, or using CNTRL/CMD+ENTER. 
 
 ## Content
 
@@ -71,9 +71,25 @@ The Live Scripts are intended to be executed in sections. This can be achieved b
 - Project, Part 1 - Orientation estimation using an explicit complementary filter
 - Project, Part 2 - Attitude control design of a quadcopter
 
+### Quizzes
+- Quiz 1 — Rotation matrices and vectors
+- Quiz 2 — Transformation matrices, Euler angles, and quaternions
+- Quiz 3 — Quaternions and exponential coordinates
+- Quiz 4 — Inertial measurement units
+- Quiz 5 — Orientation estimation
+- Quiz 6 — Robot arm kinematics
+- Quiz 7 — Wheeled robot kinematics
+- Quiz 8 — Trajectory generation
+- Quiz 9 — Control design for wheeled robots
+- Quiz 10 — Quadcopter dynamics
+- Quiz 11 — Control design for quadcopter
+
+## Hardware
+TBC
+
 ## Suggested Prerequisites
 
-This course requires a strong basis in vector calculus, linear algebra, dynamics, and control systems.
+This course requires a strong basis in vector calculus, linear algebra, mechanics, and control systems, and is mainly suited to a student with a mechatronics background.
 
 ## Additional Resources
 
@@ -81,8 +97,7 @@ This course requires a strong basis in vector calculus, linear algebra, dynamics
 
 [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) - Learn the essentials of MATLAB through this free, two-hour introductory tutorial on commonly used features and workflows.
 
-[Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink)
-- Learn the basics of how to create, edit, and simulate models in Simulink®. Use block diagrams to represent real-world systems and simulate components and algorithms.
+[Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) - Learn the basics of how to create, edit, and simulate models in Simulink®. Use block diagrams to represent real-world systems and simulate components and algorithms.
 
 ### Educator Resources
 We invite educators interested in this course material to go through the resources links provided below:
@@ -106,7 +121,7 @@ We invite educators interested in this course material to go through the resourc
 The license for this module is available in the [LICENSE](LICENSE) file in this repository.
 
 ## Acknowledgments
-A special thanks to my postgraduate students; Alyssa Ramwell, Daniel Fraser, Guy Hasewinkel, and Luke Richardson, who were instrumental in the preparation and running of this course!
+Special thanks to my postgraduate students — Alyssa Ramwell, Daniel Fraser, Guy Hasewinkel, and Luke Richardson — who were instrumental in the preparation and running of this course!
 
 This Curriculum Module was developed through the support of [MathWorks](https://www.mathworks.com/). 
-Special thanks to Dr. Marco Rossi, Dr. Moiz Khan, and Dr Pranav Lad from [MathWorks](https://www.mathworks.com/).
+I would also like to express my gratitude to Dr. Marco Rossi, Dr. Moiz Khan, and Dr Pranav Lad from [MathWorks](https://www.mathworks.com/), who very kindly assisted with reviewing this content and providing valuable suggestions.
