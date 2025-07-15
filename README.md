@@ -51,8 +51,8 @@ The intention of this package is to introduce students to the fundamentals of ri
 ## Instructions
 
 The course content can be approached in one of two ways:
-1. Click on [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=ArnoldPretoriusUCT/Control-Systems). This will allow you to access the content online in your web browser through MATLAB Online.
-2. Download all files and access the MATLAB content from the desktop app.
+1. Click on [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=ArnoldPretoriusUCT/Introduction-to-Robotics). This will allow you to access the content online in your web browser through MATLAB Online.
+2. Download all files and access the content from the MATLAB desktop application.
 
 ### Live Scripts
 
