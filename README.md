@@ -124,13 +124,13 @@ This section details the hardware elements of the teaching package, as well as t
 
 ### Mechanical Design and Assembly
 - CAD files for the quadcopter frame and attitude rig
-- A README detailing the manufacturing, bill of materials, and assembly of the physical platfor
+- A [README](Hardware/Mechanical-Design-and-Assembly/README.md) detailing the manufacturing, bill of materials, and assembly of the physical platform
 
 ### Experimental Data
 - Experimental data of the motor-propeller thrust behaviour is included for the purposes of model-based analysis and control design
 
 ### Installation
-- Installation instructions for setting up MATLAB-PX4 integration can be found here.
+- A [README](Hardware/README.md) detailing the installation instructions for setting up the MATLAB-PX4 integration in order to use Simulink External Mode with the flight controller. 
 
 ### Examples
 - Explicit complementary filter running on flight controller using Monitor and Tune
