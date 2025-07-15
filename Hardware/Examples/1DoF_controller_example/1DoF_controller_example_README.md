@@ -1,7 +1,7 @@
-# State estimation demo - complementary filter
+# 1 Degree of freedome controller demo
 
 ## Overview
-This example demonstrates how Monitor and Tune can be used with PX4 uORB topics to develop custom functions or controllers for supported flight controllers. In this case, an orientation estimator based on an explicit complementary filter is implemented, with tunable gains and dashboard-block-based visualisations. 
+This example demonstrates how Monitor and Tune can be used with PX4 uORB topics to design and deploy a controller to the Kakute H7 V2 flight stack.
 
 ## Installation and setup
 
