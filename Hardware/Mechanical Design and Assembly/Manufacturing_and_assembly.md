@@ -2,8 +2,10 @@
 
 This file details the manufacturing, BoM and assembly of the physical platform used as a demonstration and teaching tool in the Introduction to Robotics course.
 
-![Full rig1](./images/Full_rig1.jpg){: style="width:83px"}
-![Full rig2](./images/Full_rig2.jpg){: style="width:83px"}
+<p float="left">
+  <img src="(./images/Full_rig1.jpg" width="100" />
+  <img src="./images/Full_rig2.jpg" width="100" /> 
+</p>
 
 ## Configurations
 
