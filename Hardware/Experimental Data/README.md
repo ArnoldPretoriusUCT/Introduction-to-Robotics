@@ -17,7 +17,7 @@ The [Propulsion Rig](https://github.com/AltAirCoaxialVariableTiltMRAV/Propulsion
 |Filename|Description|
 |---|---|
 |`HQProp T2x2X4 … data.csv`|Raw test log at an 80 Hz sampling rate that includes `time [s]`, `thrust [g]`, and `PWM [%]`|
-|`HQProp T2x2X4 … plot.png`|Plot of thrust vs. Commaned PWM duty cycle for a quick performance overview|
+|`HQProp T2x2X4 … plot.png`|Plot of thrust vs. Commanded PWM duty cycle for a quick performance overview|
 
 
 ## Additional Equipment
