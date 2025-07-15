@@ -1,7 +1,6 @@
 # Introduction-to-Robotics
 [<img src="Images/matlab_file_exchange.png" width="130">](https://www.mathworks.com/matlabcentral/fileexchange/160301-control-systems)
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=ArnoldPretoriusUCT/Control-Systems)
-
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=ArnoldPretoriusUCT/Introduction-to-Robotics)
 ## Curriculum Module
 
 _Created with MATLAB R2024b. Compatible with MATLAB R2024b and later releases._
