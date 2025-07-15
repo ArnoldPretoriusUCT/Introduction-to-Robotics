@@ -38,11 +38,11 @@ The intention of this package is to introduce students to the fundamentals of ri
 | <img src="Images/Snapshots/TableOfContents.png" width="250"><br>Table of contents found in each Chapter | <img src="Images/Snapshots/CombinationOfContent.png" width="450"><br> Combination of static images, formatted text, and LaTeX equations | 
 | ----------- | ----------- |
 
-|<img src="Images/Snapshots/DetailedImages2.png" width="300"><br> Detailed images | <img src="Images/Snapshots/SectionedContent.png" width="528"><br> Neatly sectioned and formatted content | 
+|<img src="Images/Snapshots/DetailedImages2.png" width="300"><br> Detailed images | <img src="Images/Snapshots/SectionedContent.png" width="450"><br> Neatly sectioned and formatted content | 
 | ----------- | ----------- |
 
 | <img src="Images/Snapshots/FiguresAndCaptions.png" width="300"><br>All figures numbered and captioned, with hyperlinked in-text references | <img src="Images/Quadcopter.png" width="300"><br> Simulink quadcopter control project | 
-| ----------- | ----------- | ----------- |
+| ----------- | ----------- |
 | <img src="Images/Snapshots/CodeBlockAndVisualisation.png" width="300"><br> Interactive code blocks and detailed visualisations <br> |
 
 
