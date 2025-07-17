@@ -89,8 +89,7 @@ The three parts that require 3D printing are the base, the ball joint connection
 - Wall loops: 4
 - Infill: 20%
 - Enable support: off
-- (Optional if available) Scarf joint: Contour and hole
-    - If not available, paint the seam on the external face of the part.
+- Paint all seams on the external face of the part so that there are no seams where the part interfaces with the steel ball.
 
 ### Ball joint
 
